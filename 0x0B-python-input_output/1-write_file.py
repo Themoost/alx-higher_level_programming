@@ -3,7 +3,7 @@
 """
 
 
-def write_file(filenmae="", text=""):
+def write_file(filename="", text=""):
     """ Function that writes to a text file
 
     Args:
